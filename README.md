@@ -13,3 +13,5 @@ You can follow and watch the entire creation process on video via my website (ht
         - Added a second gun
         - Created particle Effects
 
+7/11/25 - Added first decayed Zombie AI
+        - Added Gore Simulator Dismemberment Explosion
