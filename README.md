@@ -12,4 +12,3 @@ You can follow and watch the entire creation process on video via my website (ht
 6/26/25 - Fixed a bug relating to the 'fire' button being pressed and firing many rounds, instead of one
         - Added a second gun
         - Created particle Effects
-
