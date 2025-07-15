@@ -20,4 +20,7 @@ You can follow and watch the entire creation process on video via my website (ht
         - Configured first shooter enemy AI
         - Created Quest Machine
 
+7/14/25 - Added more enemy AI
+        - Created first "Beam" laser scanner weapon
+
 
