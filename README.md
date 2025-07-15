@@ -24,3 +24,4 @@ You can follow and watch the entire creation process on video via my website (ht
         - Created first "Beam" laser scanner weapon
         - Added first "generic" non humanoid AI rigs
 
+7/15/25 - Worked in Quest Machine, set up first quest and dialogue
