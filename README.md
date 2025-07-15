@@ -22,5 +22,5 @@ You can follow and watch the entire creation process on video via my website (ht
 
 7/14/25 - Added more enemy AI
         - Created first "Beam" laser scanner weapon
-
+        - Added first "generic" non humanoid AI rigs
 
