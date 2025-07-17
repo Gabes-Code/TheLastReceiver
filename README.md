@@ -26,3 +26,6 @@ You can follow and watch the entire creation process on video via my website (ht
 
 7/15/25 - Worked in Quest Machine, set up first quest and dialogue
         - Added new melee and shooter weapons, animations to player
+
+7/16/25 - Learned Invector's character controller body snap system, created custom hats
+          and created new ItemTypes in the ItemListData ItemEnums editor.
