@@ -29,3 +29,5 @@ You can follow and watch the entire creation process on video via my website (ht
 
 7/16/25 - Learned Invector's character controller body snap system, created custom hats
           and created new ItemTypes in the ItemListData ItemEnums editor.
+
+7/17/25 - Added Equippable aprons- learned that as well as body snaps, and "handlers" to correctly place the items (clothing and weapons) on the characters, you also need to assign the body snap area Equip Point to the inventory GUI equipment slot in the inventory UI section to make that item spawn in the correct location. So Set up body snaps, item manager slot, Item data equip "handler location" AS WELL AS item equipment slot in the GUI.
